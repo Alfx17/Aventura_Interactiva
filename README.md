@@ -109,7 +109,7 @@ https://github.com/user-attachments/assets/77734344-893d-4594-b24c-dd554714be43
 
 ## Acceso al proyecto
 
-<p>Comando para clonar repositorio:</p><br> 
+<p>Comando para clonar repositorio:</p>
 git clone https://github.com/Alfx17/Aventura_Interactiva.git
 
 ---
