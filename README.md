@@ -64,12 +64,31 @@
   <img src="fondo/Vallarta.jpeg" alt="Prueba" width="300" />
 </p>
 
+<table>
+  <tr>
+    <th>Elección del país a visitar</th>
+    <th>Elección del lugar visitar</th>
+    <th>Resúmen del lugar</th>
+  </tr>
+  <tr>
+    <th>
+      <img src="fondo/America.jpeg" alt="Prueba" width="300" />
+    </th>
+    <th>
+      <img src="fondo/Colombia.jpeg" alt="Prueba" width="300" />
+    </th>
+    <th>
+      <img src="fondo/Cartagena.jpeg" alt="Prueba" width="300" />
+    </th>
+  </tr>
+</table>
+
+
 ---
 
 ## Video del funcionamiento de la aplicación 
-<p aling="center">
 https://github.com/user-attachments/assets/77734344-893d-4594-b24c-dd554714be43
-</p>
+
 
 ---
 
