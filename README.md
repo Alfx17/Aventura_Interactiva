@@ -69,7 +69,7 @@
 ## Video del funcionamiento de la aplicación 
 <div align="center">
 <video width="300" controls>
-  <source src=""https://github.com/Alfx17/Aventura_Interactiva.git/fondo/Prueba.mp4" type="video/mp4">
+  <source src=""https://alfx17.github.io/Aventura_Interactiva/fondo/Prueba.mp4" type="video/mp4">
 </video>
 </div>
 
