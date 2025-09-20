@@ -16,7 +16,7 @@
 - [Objetivo](#objetivo)
 - [Descripción del proyecto](#descripción-del-proyecto)
 - [Ejemplo de Uso](#ejemplo-de-uso)
-- [Video del funcionamiento de la aplicación](#video-del-funcionamiento-de-la-aplicación)
+- [Presentación de la aplicación](#presentación-de-la-aplicación)
 - [Estado de la tarea](#estado-de-la-tarea)
 - [Características de la aplicación](#características-de-la-aplicación)
 - [Acceso al proyecto](#acceso-al-proyecto)
@@ -85,7 +85,7 @@
 
 ---
 
-## Video del funcionamiento de la aplicación 
+## Presentación de la aplicación 
 https://github.com/user-attachments/assets/77734344-893d-4594-b24c-dd554714be43
 
 
