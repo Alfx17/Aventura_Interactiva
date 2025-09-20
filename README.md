@@ -70,6 +70,7 @@
 <div align="center">
 <video width="300" controls>
   <source src="https://alfx17.github.io/Aventura_Interactiva/fondo/Prueba.mp4" type="video/mp4">
+  Tu navegador no soporta video.
 </video>
 </div>
 
