@@ -67,8 +67,9 @@
 ---
 
 ## Video del funcionamiento de la aplicación 
+<p aling="center">
 https://github.com/user-attachments/assets/77734344-893d-4594-b24c-dd554714be43
-
+</p>
 
 ---
 
