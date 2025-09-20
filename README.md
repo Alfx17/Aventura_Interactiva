@@ -14,7 +14,7 @@
 ---
 
 ## Índice
-- [Título e imagen de portada](#tarea-2--diseño-de-una-aventura-interactiva)
+- [Título](#tarea-2--diseño-de-una-aventura-interactiva)
 - [Insignias](#insignias)
 - [Índice](#índice)
 - [Objetivo](#objetivo)
@@ -48,7 +48,7 @@
   
 </ul>
 <p align="center">
-  <img src="fondo/America.jpeg" alt="Prueba" width="300" />
+  <img src="fondo/America.jpeg" alt="Prueba" width="300" height="500"/>
 </p>
 <p align="justify">Cada uno de los países tiene un activity, en el que se muestran por lo menos 1 de los lugares turísticos más emblemáticos del país. Cada uno de esos lugares tiene una imagen represenatativa, la cual funciona como un botón, que al darle click me envía a otro activity, en el que se mostrará un pequeño resúmen del lugar y un video representativo. En este activity tenemos la opción de regresar al mapa de América con el botón que se encuentra en la parte inferior del activity.</p>
 
