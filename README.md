@@ -27,7 +27,8 @@
 
 ## Objetivo
 <p align="justify">El propósito de esta tarea es que ustedes desarrollen una aplicación Android que demuestre una navegación de usuario inmersiva y temática, y que integre elementos de interfaz creativos.</p>
---
+
+---
 
 ## Descripción del proyecto
 <p align="justify">Esta aplicación de Android contiene un Activity principal en el que se muestran los diferentes países de América. En dicha pantalla se encuentran una serie de botones sobre algunos de los países, que al ser seleccionados nos llevarán a otro activity, el cuál contendrá un mapa de mayor tamaño del país. Los países disponibles se listan a continuación.</p>
