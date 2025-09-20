@@ -19,6 +19,7 @@
 - [Índice](#índice)
 - [Objetivo](#objetivo)
 - [Descripción del proyecto](#descripción-del-proyecto)
+- [Video del funcionamiento de la aplicación](#video-del-funcionamiento-de-la-aplicación)
 - [Estado de la tarea](#estado-de-la-tarea)
 - [Características de la aplicación](#características-de-la-aplicación)
 - [Acceso al proyecto](#acceso-al-proyecto)
@@ -48,7 +49,7 @@
   
 </ul>
 <p align="center">
-  <img src="fondo/America.jpeg" alt="Prueba" width="300" height="500"/>
+  <img src="fondo/America.jpeg" alt="Prueba" width="300"/>
 </p>
 <p align="justify">Cada uno de los países tiene un activity, en el que se muestran por lo menos 1 de los lugares turísticos más emblemáticos del país. Cada uno de esos lugares tiene una imagen represenatativa, la cual funciona como un botón, que al darle click me envía a otro activity, en el que se mostrará un pequeño resúmen del lugar y un video representativo. En este activity tenemos la opción de regresar al mapa de América con el botón que se encuentra en la parte inferior del activity.</p>
 
@@ -62,6 +63,15 @@
 <p align="center">
   <img src="fondo/Vallarta.jpeg" alt="Prueba" width="300" />
 </p>
+
+---
+
+## Video del funcionamiento de la aplicación 
+<div align="center">
+<video width="300" controls>
+  <source src="prueba.mp4" type="video/mp4">
+</video>
+</div>
 
 ---
 
