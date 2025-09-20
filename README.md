@@ -67,7 +67,7 @@
 ---
 
 ## Video del funcionamiento de la aplicación 
-
+[!Video](https://alfx17.github.io/Aventura_Interactiva/fondo/Prueba.mp4)
 
 ---
 
