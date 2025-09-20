@@ -1,8 +1,4 @@
-<h1 align="center">Diseño de una Aventura Interactiva</h1>
-<p align="center">
-  <img src="fondo/tarea2.png" alt="Prueba" width="300" />
-</p>
-
+<h1 align="center">Tarea 2: Diseño de una Aventura Interactiva</h1>
 
 ---
 
