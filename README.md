@@ -19,6 +19,7 @@
 - [Índice](#índice)
 - [Objetivo](#objetivo)
 - [Descripción del proyecto](#descripción-del-proyecto)
+- [Ejemplo de Uso](#ejemplo-de-uso)
 - [Video del funcionamiento de la aplicación](#video-del-funcionamiento-de-la-aplicación)
 - [Estado de la tarea](#estado-de-la-tarea)
 - [Características de la aplicación](#características-de-la-aplicación)
@@ -64,6 +65,8 @@
   <img src="fondo/Vallarta.jpeg" alt="Prueba" width="300" />
 </p>
 
+---
+## Ejemplo de Uso
 <table>
   <tr>
     <th>Elección del país a visitar</th>
