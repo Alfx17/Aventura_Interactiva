@@ -1,4 +1,4 @@
-![Portada](fondo/interfaz.jpg)
+![Portada](fondo/tarea2.jpg)
 # Diseño de una Aventura Interactiva
 
 
