@@ -1,4 +1,6 @@
-![Portada](fondo/tarea2.png)
+<p align="center">
+  <img src="fondo/tarea2.png" alt="Prueba" width="300" />
+</p>
 # Diseño de una Aventura Interactiva
 
 
