@@ -1,5 +1,6 @@
-# Tarea 1.- Elementos de Interfaz de Usuario
 ![Portada](fondo/interfaz.jpg)
+# Diseño de una Aventura Interactiva
+
 
 ---
 
@@ -11,9 +12,10 @@
 ---
 
 ## Índice
-- [Título e imagen de portada](#tarea-1--elementos-de-interfaz-de-usuario)
+- [Título e imagen de portada](#tarea-2--diseño-de-una-aventura-interactiva)
 - [Insignias](#insignias)
 - [Índice](#índice)
+- [Objetivo](#objetivo)
 - [Descripción del proyecto](#descripción-del-proyecto)
 - [Estado de la tarea](#estado-de-la-tarea)
 - [Características de la aplicación](#características-de-la-aplicación)
@@ -23,12 +25,39 @@
 
 ---
 
+## Objetivo
+<p align="justify">El propósito de esta tarea es que ustedes desarrollen una aplicación Android que demuestre una navegación de usuario inmersiva y temática, y que integre elementos de interfaz creativos.</p>
+--
+
 ## Descripción del proyecto
-<p align="justify">Esta aplicación de Android contiene un Activity en donde se muestra un pequeño resúmen cerca de los elementos de interfaz de usuario. En dicha pantalla se encuentran una serie de botones que al ser seleccionados nos llevarán a una serie de Fragments con más información acerca del tema y con ejemplos prácticos.</p> 
-<p align="justify">En cada uno de los Fragments se encuentran características de los elementos investigados, seguidos de una imagen que ejemplifica como se verían en una aplicación. Debajo de esta imagen se encuentran ejemplos en los que el usuario puede probar e interactuar directamente algunos elementos. Finalmente, en la parte inferior se encuentra un botón que nos permite regresar al menú principal.</p>
+<p align="justify">Esta aplicación de Android contiene un Activity principal en el que se muestran los diferentes países de América. En dicha pantalla se encuentran una serie de botones sobre algunos de los países, que al ser seleccionados nos llevarán a otro activity, el cuál contendrá un mapa de mayor tamaño del país. Los países disponibles se listan a continuación.</p>
+<ul>
+  <li>Alaska</li>
+  <li>Groenlandia</li>
+  <li>Canadá</li>
+  <li>Estados Unidos de América</li>
+  <li>México</li>
+  <li>Venezuela</li>
+  <li>Colombia</li>
+  <li>Perú</li>
+  <li>Brasil</li>
+  <li>Argentina</li>
+  
+</ul>
+<p align="center">
+  <img src="fondo/America.jpeg" alt="Prueba" width="300" />
+</p>
+<p align="justify">Cada uno de los países tiene un activity, en el que se muestran por lo menos 1 de los lugares turísticos más emblemáticos del país. Cada uno de esos lugares tiene una imagen represenatativa, la cual funciona como un botón, que al darle click me envía a otro activity, en el que se mostrará un pequeño resúmen del lugar y un video representativo. En este activity tenemos la opción de regresar al mapa de América con el botón que se encuentra en la parte inferior del activity.</p>
 
 <p align="center">
-  <img src="fondo/Prueba.jpeg" alt="Prueba" width="300" />
+  <img src="fondo/Mexico.jpeg" alt="Prueba" width="300" />
+</p>
+
+<p align="justify">Una vez que se le dio click en la imagen de lugar turístico que se desea conocer, se abre un activity en el que se carga el fragment correspondiente al lugar. En este fragment se muestra el título en la parte superior, seguido de una descripción breve y un video representativo. Al final tenemos un botón que nos permite regresar al mapa del país en el que visitamos el lugar para poder seguir observando otros lugares.  
+</p>
+
+<p align="center">
+  <img src="fondo/Vallarta.jpeg" alt="Prueba" width="300" />
 </p>
 
 ---
@@ -40,15 +69,18 @@
 
 ## Características de la aplicación 
 - [x] Pantalla de inicio
+- [x] Uso de Activities
 - [x] Uso de Fragments
-- [x] Los botones expanden a los Fragments dentro del Activity
-- [x] Ejemplos prácticos en cada Fragment
+- [x] Los botones de la pantalla de inicio me dirigen a otro Activity
+- [x] Cada país tiene un Activity diferente
+- [x] Los botones de cada país me dirigen a otro Activity
+- [x] En le Activity del lugar turístico se carga el Fragment correspondiente   
 
 ---
 
 ## Acceso al proyecto
 *"Clonar repositorio: 
-    git clone https://github.com/Alfx17/AplicacionesMovilesNativas.git
+    git clone https://github.com/Alfx17/Aventura_Interactiva.git
 "*
 ---
 
